@@ -1,0 +1,18 @@
+Analytics Plugin Version 0.2
+-------------------------
+
+Google Analytics plugin for VamShop
+
+Configuration
+-------------
+
+1. Activate the plugin
+
+2. Enter your Web Propery ID and domain name in Settings -> Site
+
+Requirements
+------------
+
+VamShop 3.0 - http://github.com/vamshop/
+
+
