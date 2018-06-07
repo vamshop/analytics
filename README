@@ -18,7 +18,7 @@ Manual Installation:
 
 1. Download or clone repository http://github.com/vamshop/analytics
 
-2. Copy files from archive analytics-master folder to /app/plugins/analytics folder
+2. Copy files from archive analytics-master folder to /app/plugins/Analytics folder
 
 3. Activate plugin at Admin - Extensions - Plugins - Analytics
 
