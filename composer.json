@@ -1,13 +1,13 @@
 {
-    "name": "rchavik/analytics",
+    "name": "vamshop/analytics",
     "type": "cakephp-plugin",
-    "description": "Analytics Helper Croogo Plugin",
+    "description": "VamShop Google Analytics Plugin",
     "keywords": [
         "cakephp",
-        "croogo",
+        "vamshop",
         "google analytics"
     ],
-    "homepage": "https://github.com/rchavik/analytics",
+    "homepage": "https://github.com/vamshop/analytics",
     "license": "MIT",
     "authors": [
         {
@@ -17,7 +17,7 @@
     "require": {
         "php": ">=5.5.9",
         "cakephp/cakephp": "~3.2",
-        "croogo/croogo": "3.0.x-dev"
+        "vamshop/vamshop-core": "3.0.x-dev"
     },
     "require-dev": {
         "phpunit/phpunit": "*"
