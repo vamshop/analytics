@@ -3,6 +3,26 @@ Analytics Plugin Version 0.2
 
 Google Analytics plugin for VamShop
 
+
+Installation using composer:
+
+1. Install package from your VamShop root directory (where composer.json located):
+
+composer require vamshop/analytics:dev
+
+2. Activate plugin at Admin - Extensions - Plugins - Analytics
+
+
+Manual Installation:
+
+
+1. Download or clone repository http://github.com/vamshop/analytics
+
+2. Copy files from archive analytics-master folder to /app/plugins/analytics folder
+
+3. Activate plugin at Admin - Extensions - Plugins - Analytics
+
+
 Configuration
 -------------
 
