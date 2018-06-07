@@ -8,7 +8,7 @@ Installation using composer:
 
 1. Install package from your VamShop root directory (where composer.json located):
 
-composer require vamshop/analytics:dev
+composer require vamshop/analytics
 
 2. Activate plugin at Admin - Extensions - Plugins - Analytics
 
