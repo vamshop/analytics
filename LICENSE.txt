@@ -1,6 +1,6 @@
 The MIT License
 
-Analytics: Analytics Helper Croogo Plugin
+Analytics: Analytics Helper Vamshop Plugin
 Copyright (c) 2013, Rachman Chavik
 
 Permission is hereby granted, free of charge, to any person obtaining a

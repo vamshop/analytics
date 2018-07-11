@@ -12,7 +12,7 @@ class PluginActivation
 
     public function onActivation()
     {
-        $settings = \Cake\ORM\TableRegistry::get('Croogo/Settings.Settings');
+        $settings = \Cake\ORM\TableRegistry::get('Vamshop/Settings.Settings');
         $settings->write('Site.Analytics.webPropertyId', '', [
             'editable' => 1,
             'title' => 'Web Property ID',
@@ -33,7 +33,7 @@ class PluginActivation
 
     public function onDeactivation()
     {
-        $settings = \Cake\ORM\TableRegistry::get('Croogo/Settings.Settings');
+        $settings = \Cake\ORM\TableRegistry::get('Vamshop/Settings.Settings');
         $settings->deleteKey('Site.Analytics.webPropertyId');
         $settings->deleteKey('Site.Analytics.domain');
     }

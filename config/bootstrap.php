@@ -1,3 +1,3 @@
 <?php
 
-\Croogo\Core\Croogo::hookHelper('*', 'Analytics.Analytics');
+\Vamshop\Core\Vamshop::hookHelper('*', 'Analytics.Analytics');
